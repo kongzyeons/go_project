@@ -1,0 +1,8 @@
+db:
+  driver: mongodb
+  host: mongodb://admin:admin%40inet%21@203.151.199.181:27017
+  
+
+serve:
+  driver: fiberv2
+  host: localhost:8000
